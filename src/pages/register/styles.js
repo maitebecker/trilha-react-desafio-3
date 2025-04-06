@@ -13,7 +13,7 @@ export const Container = styled.main`
 `
 
 export const Wrapper = styled.div`
-    max-width: 300px;
+    max-width: 400px;
 `
 
 export const Column = styled.div`
@@ -27,8 +27,6 @@ export const Row = styled.div`
     align-items: center;
     margin-top: 20px;
 `
-
-
 
 export const Title = styled.h2`
     font-family: 'Open Sans';
@@ -56,31 +54,26 @@ export const SubtitleLogin = styled.p`
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 25px;
+    line-height: 100%;
+    margin: 20px 0 ;
+`
+
+export const ContaText = styled.p`
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 100%;
     margin-bottom: 35px;
 `
 
-
-export const EsqueciText  = styled.p`
+export const LoginText = styled.a`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
-    line-height: 19px;
-
-    color: #E5E044;
-    &:hover {
-        text-decoration: underline;
-    }
-` 
-
-export const CriarText =  styled.a`
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 19px;
-
+    line-height: 100%;
+    margin-bottom: 35px;
     color: #23DD7A;
 
     &:hover {
