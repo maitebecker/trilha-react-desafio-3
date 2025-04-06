@@ -37,7 +37,10 @@ Validações feitas com Yup, integradas ao React Hook Form:
 ---
 
 ## 📸 Preview
-![Animação](https://github.com/user-attachments/assets/df0b2ad4-9a2c-4d25-9f36-c04aa2913964)
+![Animação do projeto](https://github.com/maitebecker/trilha-react-desafio-3/blob/master/src/assets/Anima%C3%A7%C3%A3o.gif)
+
+
+
 
 
 
